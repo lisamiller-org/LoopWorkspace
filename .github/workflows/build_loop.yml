@@ -218,6 +218,7 @@ jobs:
           2hlollipop \
           meal_days \
           profiles \
+          watch_title \
           basal_lock \
           negative_insulin \
           no_auth
